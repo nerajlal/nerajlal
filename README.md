@@ -42,8 +42,13 @@ I am a **Full-Stack Engineer** building high-performance web applications at **T
 
 ### 📊 Engineering Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nerajlal&show_icons=true&theme=algolia&hide_border=true&rank_icon=github" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerajlal&layout=compact&theme=algolia&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nerajlal&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerajlal&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nerajlal&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">

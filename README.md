@@ -1,8 +1,9 @@
 # Hi there, I'm Neraj Lal S 👋
 ### Full-Stack Developer @ Task19 Technologies | Shopify App Specialist 🛍️
 
-![Banner](https://capsule-render.vercel.app/action/reborn/header?type=soft&color=38B2AC&text=Neraj%20Lal&fontSize=70&animation=fadeIn&fontAlignY=35)
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=38B2AC&text=Neraj%20Lal&fontSize=70&animation=fadeIn" alt="Neraj Lal Banner" />
+</p>
 <p align="left">
  <a href="https://linkedin.com/in/nerajlal" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />

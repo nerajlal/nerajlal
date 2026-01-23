@@ -1,7 +1,7 @@
 # Hi there, I'm Neraj Lal S 👋
-### Software Developer | Full-Stack Freelancer 💻
+### Full-Stack Developer @ Task19 Technologies | Shopify App Specialist 🛍️
 
-![Banner](https://capsule-render.vercel.app/action/reborn/header?type=soft&color=auto&text=Neraj%20Lal&fontSize=70&animation=fadeIn&fontAlignY=35)
+![Banner](https://capsule-render.vercel.app/action/reborn/header?type=soft&color=38B2AC&text=Neraj%20Lal&fontSize=70&animation=fadeIn&fontAlignY=35)
 
 <p align="left">
  <a href="https://linkedin.com/in/nerajlal" target="_blank">
@@ -17,46 +17,45 @@
 
 ---
 
-### 💻 About Me
-I am a passionate **Software Developer** specializing in building robust back-end systems and scalable web applications. With a strong foundation in Java and the Spring ecosystem, I focus on writing clean, efficient, and maintainable code.
+### 💻 Professional Profile
+I am a **Full-Stack Engineer** currently focused on building high-performance web applications at **Task19 Technologies**. I specialize in the PHP ecosystem and modern E-commerce engineering.
 
-- 🛠️ **Current Focus:** Building enterprise-grade applications with **Spring Boot** & **Microservices**.
-- 🚀 **Expertise:** Full-stack development, Database Management, and Freelance Solutions.
-- 🎓 **Education:** Government Engineering College (GEC).
-- 💬 **Ask me about:** Java, Spring, Hibernate, or WordPress development.
+- 🔭 **Current Focus:** Crafting enterprise-level applications with **Laravel** and custom **Shopify App Development**.
+- 🛠️ **Expertise:** MVC Architecture, REST APIs, Shopify Liquid, and App Bridge.
+- 🚀 **Past Experience:** Strong background in Java/Spring Boot, bringing enterprise-grade logic to PHP environments.
+- 💬 **Ask me about:** Laravel optimization, Shopify API integrations, or Full-stack architecture.
 
-### 🛠 Tech Stack
-**Back-end & Core**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+### 🛠 Technical Toolbox
+**Primary Stack (The Powerhouse)**
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Front-end & Tools**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**E-commerce & CMS**
+![Shopify](https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
-### 📊 GitHub Activity
+### 📊 Engineering Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nerajlal&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerajlal&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nerajlal&show_icons=true&theme=algolia&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerajlal&layout=compact&theme=algolia&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nerajlal&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nerajlal&theme=algolia&hide_border=true" />
 </p>
 
 ---
 
-### 📫 Let's Connect!
+### 🤝 Let's Build Something Together
 - 🌐 **Portfolio:** [nerajlal.gecnoguru.com](https://nerajlal.gecnoguru.com/)
-- 💼 **LinkedIn:** [nerajlal](https://linkedin.com/in/nerajlal)
-- 📧 **Email:** [nerajnerajlal@gmail.com](mailto:nerajnerajlal@gmail.com)
+- 💼 **LinkedIn:** [Neraj Lal](https://linkedin.com/in/nerajlal)
+- 📧 **Direct:** [nerajnerajlal@gmail.com](mailto:nerajnerajlal@gmail.com)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nerajlal&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="nerajlal" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=nerajlal&color=38B2AC&style=flat-square&label=VISITOR+COUNT" alt="nerajlal" />
 </p>

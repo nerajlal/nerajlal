@@ -2,7 +2,7 @@
 ### Full-Stack Engineer @ Task19 Technologies | Shopify App Specialist 🛍️
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=38B2AC&text=Neraj%20Lal%20S&fontSize=70&animation=fadeIn" alt="Neraj Lal Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC&height=250&section=header&text=Neraj%20Lal%20S&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Shopify%20App%20Specialist&descAlignY=58&descAlign=50" alt="Neraj Lal Banner" />
 </p>
 
 <p align="center">

@@ -13,7 +13,7 @@
 ---
 
 ### 💻 Professional Profile
-I am a **Full-Stack Engineer** building high-performance web applications at **Task19 Technologies**. I specialize in the PHP ecosystem, modern E-commerce engineering, and scalable SaaS architecture.
+I am a **Full-Stack Engineer** building high-performance web applications. I specialize in the PHP ecosystem, modern E-commerce engineering, and scalable SaaS architecture.
 
 - 🔭 **Current Focus:** Crafting enterprise-level applications with **Laravel** and custom **Shopify App Development**.
 - 🛠️ **Expertise:** MVC Architecture, REST APIs, Shopify Liquid, and App Bridge.

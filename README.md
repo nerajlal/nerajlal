@@ -10,8 +10,6 @@
   <a href="https://wa.me/918547470675" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
----
-
 ### 💻 Professional Profile
 I am a **Full-Stack Engineer** building high-performance web applications. I specialize in the PHP ecosystem, modern E-commerce engineering, and scalable SaaS architecture.
 
@@ -34,14 +32,10 @@ I am a **Full-Stack Engineer** building high-performance web applications. I spe
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
 </p>
 
----
-
 ### 🚀 Top Projects & Contributions
 * **SaaS Product Development** – Actively building and deploying scalable web services (including digital QR menu solutions for hospitality).
 * **Shopify App Ecosystem** – Custom integrations and workflow automation using App Bridge.
 * **Enterprise Portals** – Robust admin systems and CMS architecture built with Laravel and MySQL.
-
----
 
 ### 📊 Engineering Stats
 <p align="center"> 
@@ -52,8 +46,6 @@ I am a **Full-Stack Engineer** building high-performance web applications. I spe
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nerajlal&layout=compact&theme=tokyonight&hide_border=true" alt="Neraj Lal Top Languages" />
 </p>
-
----
 
 ### 🤝 Let's Build Something Together
 - 🌐 **Portfolio:** [nerajlal.gecnoguru.com](https://nerajlal.gecnoguru.com/)

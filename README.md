@@ -25,7 +25,9 @@ I am a **Full-Stack Engineer** building high-performance web applications. I spe
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  
   <br><br>
+  
   <img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-%23117B85.svg?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/DigitalOcean-%23008bcf.svg?style=for-the-badge&logo=digitalocean&logoColor=white" />

@@ -9,7 +9,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nerajnerajlal@gmail.com)&nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/918547470675)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_t_h_e_dream_maker_/)
-
 ---
 
 I build high-performance web applications at the intersection of the PHP ecosystem, modern e-commerce, and scalable SaaS. I bring enterprise-grade thinking from Java/Spring Boot into agile Laravel and Shopify environments — shipping systems that are clean, fast, and built to last.
@@ -23,7 +22,6 @@ My current focus spans enterprise Laravel applications, custom Shopify app devel
 If you want to talk about Laravel optimization, Shopify API integrations, Medusa.js commerce, or scalable full-stack architecture — let's connect.
 
 ---
-
 ### Technical stack
 
 **Backend**

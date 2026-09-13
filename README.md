@@ -12,15 +12,17 @@
 
 ```text
 $ nerajfetch
-                                  neraj@gecnoguru
-       _   __               _     ---------------
-      / | / /__  _________ (_)    Role: Full Stack Developer
-     /  |/ / _ \/ ___/ __ `/ /    Focus: Laravel, Shopify, AI, SaaS
-    / /|  /  __/ /  / /_/ / /     Languages: PHP, Python, JS, Java
-   /_/ |_/\___/_/   \__,_/_/      Frameworks: Laravel, React, Django
-                                  Tools: Docker, Git, DigitalOcean
-                                  Contact: nerajnerajlal@gmail.com
-                                  Website: nerajlal.gecnoguru.com
+ 
+        ▗▄▄▄████████▄▄▄▖        neraj@gecnoguru
+      ▗██████████████████▖      ---------------
+     ▗████████████████████▖     Role: Full Stack Developer
+    ▗██████████████████████▖    Focus: Laravel, Shopify, AI, SaaS
+    ██████▀▀▀▀▀▀▀▀▀▀▀▀██████    Languages: PHP, Python, JS, Java
+    █████▌ ▗██▖  ▗██▖ ▐█████    Frameworks: Laravel, React, Django
+    █████▌ ▝▀▀▘  ▝▀▀▘ ▐█████    Tools: Docker, Git, DigitalOcean
+    ██████▄▄      ▄▄████████    Contact: nerajnerajlal@gmail.com
+    ▝████████▄▄▄▄██████████▘    Website: nerajlal.gecnoguru.com
+     ▝████████████████████▘
 ```
 
 </div>

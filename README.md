@@ -57,24 +57,6 @@ I enjoy taking an idea from **concept → architecture → development → deplo
 
 <br>
 
-<br>
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nerajlal/nerajlal/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nerajlal/nerajlal/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/nerajlal/nerajlal/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub Contribution Snake">
-</picture>
-
-</div>
-
-<br>
-
----
-
 <div align="center">
 
 ## 🌐 Connect With Me
@@ -94,6 +76,20 @@ I enjoy taking an idea from **concept → architecture → development → deplo
 <a href="https://www.instagram.com/techbyneraj/">
 <img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=FF69B4" alt="Instagram">
 </a>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nerajlal/nerajlal/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nerajlal/nerajlal/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/nerajlal/nerajlal/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub Contribution Snake">
+</picture>
 
 </div>
 

@@ -57,54 +57,7 @@ I enjoy taking an idea from **concept → architecture → development → deplo
 
 <br>
 
-<div align="center">
-
-## 🛠️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=php,laravel,python,django,javascript,typescript,html,css,react,nextjs,nodejs,tailwind&theme=dark" alt="Languages and frameworks">
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=shopify,mysql,postgres,redis,docker,git,github,linux,nginx,digitalocean,postman,vscode&theme=dark" alt="Platforms and tools">
-
-</div>
-
 <br>
-
----
-
-## 🚀 Featured Projects
-
-<!-- <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 Maco: AI macOS Assistant</h3>
-      <p>A native system automation tool executing OS-level developer workflows via voice. Integrated with <b>Gemini API</b> to map natural language to system toggles.</p>
-      <p><code>Python</code> <code>Gemini API</code> <code>OS APIs</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🍽️ MetoMenu (Restaurant SaaS)</h3>
-      <p>Multi-tenant SaaS infrastructure for restaurants with a custom RBAC system and real-time dashboard for managing digital menus and customer preferences.</p>
-      <p><code>Laravel</code> <code>MySQL</code> <code>Tailwind CSS</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛍️ Profit Saver (Shopify App)</h3>
-      <p>High-tier loyalty app automating reward delivery and campaign analytics. Built with secure webhook handling via GraphQL and Polaris UI.</p>
-      <p><code>React</code> <code>Laravel</code> <code>GraphQL</code> <code>Polaris</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📚 Learning Management System</h3>
-      <p>Three-tier educational portal featuring robust Role-Based Access Control and secure file handling under high concurrent loads.</p>
-      <p><code>Laravel</code> <code>MySQL</code> <code>JavaScript</code></p>
-    </td>
-  </tr>
-</table> -->
-
-<br>
-
----
 
 <div align="center">
 

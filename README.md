@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile/metrics.svg">
   <source media="(prefers-color-scheme: light)" srcset="./profile/metrics.svg">
-  <img src="./profile/metrics.svg" width="100%" alt="Neraj Lal GitHub Metrics">
+  <!-- <img src="./profile/metrics.svg" width="100%" alt="Neraj Lal GitHub Metrics"> -->
 </picture>
 
 <br><br>

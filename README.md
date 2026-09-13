@@ -10,6 +10,24 @@
 
 <br><br>
 
+<a href="https://nerajlal.gecnoguru.com/">
+<img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=google-chrome&logoColor=EF93C4" alt="Portfolio">
+</a>
+&nbsp;
+<a href="https://github.com/nerajlal">
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=EF93C4" alt="GitHub">
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/nerajlal/">
+<img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=EF93C4" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="https://www.instagram.com/techbyneraj/">
+<img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=FF69B4" alt="Instagram">
+</a>
+
+<br><br>
+
 <a href="https://github.com/nerajlal?tab=followers">
 <img src="https://img.shields.io/github/followers/nerajlal?style=for-the-badge&label=FOLLOWERS&color=EF93C4&labelColor=161B22" alt="GitHub followers">
 </a>
@@ -55,29 +73,6 @@ I enjoy taking an idea from **concept → architecture → development → deplo
 </tr>
 </table>
 
-<br>
-
-<div align="center">
-
-## 🌐 Connect With Me
-
-<a href="https://nerajlal.gecnoguru.com/">
-<img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=google-chrome&logoColor=EF93C4" alt="Portfolio">
-</a>
-&nbsp;
-<a href="https://github.com/nerajlal">
-<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=EF93C4" alt="GitHub">
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/nerajlal/">
-<img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=EF93C4" alt="LinkedIn">
-</a>
-&nbsp;
-<a href="https://www.instagram.com/techbyneraj/">
-<img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=FF69B4" alt="Instagram">
-</a>
-
-</div>
 
 <br><br>
 

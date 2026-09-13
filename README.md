@@ -1,31 +1,29 @@
 <div align="center">
 
-<h1>Hey there, I'm Neraj Lal 👋</h1>
-
-<a href="https://github.com/nerajlal">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;Laravel+%7C+Shopify+Specialist;AI+%26+LLM+Integrations;Building+SaaS+%26+Production+Web+Apps;Turning+Ideas+Into+Working+Products" alt="Typing SVG">
-</a>
-
-<br>
-
-<div align="left">
-
-```text
-$ nerajfetch
- 
-        ▗▄▄▄████████▄▄▄▖        neraj@gecnoguru
-      ▗██████████████████▖      ---------------
-     ▗████████████████████▖     Role: Full Stack Developer
-    ▗██████████████████████▖    Focus: Laravel, Shopify, AI, SaaS
-    ██████▀▀▀▀▀▀▀▀▀▀▀▀██████    Languages: PHP, Python, JS, Java
-    █████▌ ▗██▖  ▗██▖ ▐█████    Frameworks: Laravel, React, Django
-    █████▌ ▝▀▀▘  ▝▀▀▘ ▐█████    Tools: Docker, Git, DigitalOcean
-    ██████▄▄      ▄▄████████    Contact: nerajnerajlal@gmail.com
-    ▝████████▄▄▄▄██████████▘    Website: nerajlal.gecnoguru.com
+<table width="100%" style="border: none;">
+  <tr style="border: none;">
+    <td width="55%" valign="middle" style="border: none;">
+      <h1 align="left">Hey there, I'm Neraj Lal 👋</h1>
+      <a href="https://github.com/nerajlal">
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=500&lines=Full+Stack+Developer;Laravel+%7C+Shopify+Specialist;AI+%26+LLM+Integrations;Building+SaaS+%26+Production+Web+Apps;Turning+Ideas+Into+Working+Products" alt="Typing SVG">
+      </a>
+    </td>
+    <td width="45%" align="center" valign="middle" style="border: none;">
+<pre><code>
+        ▗▄▄▄████████▄▄▄▖
+      ▗██████████████████▖
+     ▗████████████████████▖
+    ▗██████████████████████▖
+    ██████▀▀▀▀▀▀▀▀▀▀▀▀██████
+    █████▌ ▗██▖  ▗██▖ ▐█████
+    █████▌ ▝▀▀▘  ▝▀▀▘ ▐█████
+    ██████▄▄      ▄▄████████
+    ▝████████▄▄▄▄██████████▘
      ▝████████████████████▘
-```
-
-</div>
+</code></pre>
+    </td>
+  </tr>
+</table>
 
 <br>
 

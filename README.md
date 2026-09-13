@@ -79,7 +79,7 @@ I enjoy taking an idea from **concept → architecture → development → deplo
 
 ## 🚀 Featured Projects
 
-<table width="100%">
+<!-- <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 Maco: AI macOS Assistant</h3>
@@ -104,7 +104,7 @@ I enjoy taking an idea from **concept → architecture → development → deplo
       <p><code>Laravel</code> <code>MySQL</code> <code>JavaScript</code></p>
     </td>
   </tr>
-</table>
+</table> -->
 
 <br>
 

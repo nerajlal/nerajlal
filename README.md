@@ -1,20 +1,14 @@
-<div align="center">
+<div align="left">
 
-<table width="100%" style="border: none;">
-  <tr style="border: none;">
-    <td width="55%" valign="middle" style="border: none;">
-      <h1 align="left">Hey there, I'm Neraj Lal 👋</h1>
-      <a href="https://github.com/nerajlal">
-        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=500&lines=Full+Stack+Developer;Laravel+%7C+Shopify+Specialist;AI+%26+LLM+Integrations;Building+SaaS+%26+Production+Web+Apps;Turning+Ideas+Into+Working+Products" alt="Typing SVG">
-      </a>
-    </td>
-    <td width="45%" align="center" valign="middle" style="border: none;">
-      <img src="./img.png" width="250" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="Neraj Lal">
-    </td>
-  </tr>
-</table>
+<img align="right" src="./img.png" width="250" alt="Neraj Lal">
 
-<br>
+<h1>Hey there, I'm Neraj Lal 👋</h1>
+
+<a href="https://github.com/nerajlal">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=500&lines=Full+Stack+Developer;Laravel+%7C+Shopify+Specialist;AI+%26+LLM+Integrations;Building+SaaS+%26+Production+Web+Apps;Turning+Ideas+Into+Working+Products" alt="Typing SVG">
+</a>
+
+<br><br>
 
 <a href="https://github.com/nerajlal?tab=followers">
 <img src="https://img.shields.io/github/followers/nerajlal?style=for-the-badge&label=FOLLOWERS&color=EF93C4&labelColor=161B22" alt="GitHub followers">
@@ -25,6 +19,8 @@
 </a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=nerajlal&style=for-the-badge&label=PROFILE%20VIEWS&color=FF69B4&labelColor=161B22" alt="Profile views">
+
+<br clear="both">
 
 </div>
 

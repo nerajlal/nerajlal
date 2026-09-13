@@ -79,18 +79,6 @@ I enjoy taking an idea from **concept → architecture → development → deplo
 
 <div align="center">
 
-## 📊 GitHub Activity
-
-<!-- <img src="./profile/metrics.svg" width="100%" alt="Neraj Lal GitHub Metrics Dashboard"> -->
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
 ## 🐍 Contribution Snake
 
 <picture>

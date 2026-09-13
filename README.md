@@ -1,6 +1,6 @@
 <div align="left">
 
-<img align="right" src="./img.png" width="250" alt="Neraj Lal">
+<img align="right" src="./img.png" width="250" hspace="15" alt="Neraj Lal">
 
 <h1>Hey there, I'm Neraj Lal 👋</h1>
 
@@ -8,35 +8,30 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=false&vCenter=true&width=500&lines=Full+Stack+Developer;Laravel+%7C+Shopify+Specialist;AI+%26+LLM+Integrations;Building+SaaS+%26+Production+Web+Apps;Turning+Ideas+Into+Working+Products" alt="Typing SVG">
 </a>
 
-<br><br>
+<p>
+  <a href="https://nerajlal.gecnoguru.com/">
+    <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=google-chrome&logoColor=EF93C4" alt="Portfolio">
+  </a>
+  <a href="https://github.com/nerajlal">
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=EF93C4" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/nerajlal/">
+    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=EF93C4" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/techbyneraj/">
+    <img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=FF69B4" alt="Instagram">
+  </a>
+</p>
 
-<a href="https://nerajlal.gecnoguru.com/">
-<img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=google-chrome&logoColor=EF93C4" alt="Portfolio">
-</a>
-&nbsp;
-<a href="https://github.com/nerajlal">
-<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=EF93C4" alt="GitHub">
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/nerajlal/">
-<img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=EF93C4" alt="LinkedIn">
-</a>
-&nbsp;
-<a href="https://www.instagram.com/techbyneraj/">
-<img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=FF69B4" alt="Instagram">
-</a>
-
-<br><br>
-
-<a href="https://github.com/nerajlal?tab=followers">
-<img src="https://img.shields.io/github/followers/nerajlal?style=for-the-badge&label=FOLLOWERS&color=EF93C4&labelColor=161B22" alt="GitHub followers">
-</a>
-&nbsp;
-<a href="https://github.com/nerajlal?tab=repositories">
-<img src="https://img.shields.io/github/stars/nerajlal?style=for-the-badge&label=STARS&color=F8BBD0&labelColor=161B22" alt="GitHub stars">
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=nerajlal&style=for-the-badge&label=PROFILE%20VIEWS&color=FF69B4&labelColor=161B22" alt="Profile views">
+<p>
+  <a href="https://github.com/nerajlal?tab=followers">
+    <img src="https://img.shields.io/github/followers/nerajlal?style=for-the-badge&label=FOLLOWERS&color=EF93C4&labelColor=161B22" alt="GitHub followers">
+  </a>
+  <a href="https://github.com/nerajlal?tab=repositories">
+    <img src="https://img.shields.io/github/stars/nerajlal?style=for-the-badge&label=STARS&color=F8BBD0&labelColor=161B22" alt="GitHub stars">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=nerajlal&style=for-the-badge&label=PROFILE%20VIEWS&color=FF69B4&labelColor=161B22" alt="Profile views">
+</p>
 
 <br clear="both">
 

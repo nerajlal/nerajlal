@@ -1,20 +1,12 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/metrics.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile/metrics.svg">
-  <!-- <img src="./profile/metrics.svg" width="100%" alt="Neraj Lal GitHub Metrics"> -->
-</picture>
-
-<br><br>
-
 <h1>Hey there, I'm Neraj Lal 👋</h1>
 
 <a href="https://github.com/nerajlal">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=EF93C4&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;Laravel+%7C+Shopify+Specialist;AI+%26+LLM+Integrations;Building+SaaS+%26+Production+Web+Apps;Turning+Ideas+Into+Working+Products" alt="Typing SVG">
 </a>
 
-<br><br>
+<br>
 
 <a href="https://github.com/nerajlal?tab=followers">
 <img src="https://img.shields.io/github/followers/nerajlal?style=for-the-badge&label=FOLLOWERS&color=EF93C4&labelColor=161B22" alt="GitHub followers">

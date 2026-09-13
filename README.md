@@ -8,6 +8,25 @@
 
 <br>
 
+<div align="left">
+
+```text
+$ nerajfetch
+                                  neraj@gecnoguru
+       _   __               _     ---------------
+      / | / /__  _________ (_)    Role: Full Stack Developer
+     /  |/ / _ \/ ___/ __ `/ /    Focus: Laravel, Shopify, AI, SaaS
+    / /|  /  __/ /  / /_/ / /     Languages: PHP, Python, JS, Java
+   /_/ |_/\___/_/   \__,_/_/      Frameworks: Laravel, React, Django
+                                  Tools: Docker, Git, DigitalOcean
+                                  Contact: nerajnerajlal@gmail.com
+                                  Website: nerajlal.gecnoguru.com
+```
+
+</div>
+
+<br>
+
 <a href="https://github.com/nerajlal?tab=followers">
 <img src="https://img.shields.io/github/followers/nerajlal?style=for-the-badge&label=FOLLOWERS&color=EF93C4&labelColor=161B22" alt="GitHub followers">
 </a>

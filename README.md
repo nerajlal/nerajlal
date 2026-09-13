@@ -81,7 +81,7 @@ I enjoy taking an idea from **concept → architecture → development → deplo
 
 ## 📊 GitHub Activity
 
-<img src="./profile/metrics.svg" width="100%" alt="Neraj Lal GitHub Metrics Dashboard">
+<!-- <img src="./profile/metrics.svg" width="100%" alt="Neraj Lal GitHub Metrics Dashboard"> -->
 
 </div>
 

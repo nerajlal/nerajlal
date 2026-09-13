@@ -23,6 +23,7 @@ jobs:
       - name: Publish snake
         uses: crazy-max/ghaction-github-pages@v4
         with:
+          target_branch: output
           build_dir: dist
         env:
           GH_PAT: ${{ secrets.GITHUB_TOKEN }}
